@@ -89,6 +89,6 @@ The activity column is numbered 1 to 6. Each number relates to the following:
 "fBodyBodyGyroJerkMag-mean()"
 "fBodyBodyGyroJerkMag-std()"
 
-##'Units'
+## 'Units'
 
 Activity and Subject columns are integers. All other columns are of numeric class.
